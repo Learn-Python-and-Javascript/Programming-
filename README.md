@@ -1,7 +1,9 @@
 # Programming
 The project is created to learning *Javascript* and *Python3*, but beginning with C++ on [Tsinghua X_2015_T2](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240233X_2015_T2+sp/info), I wrote down the notes reference from [MichaelLiao](https://www.liaoxuefeng.com/) and some demos during learning to review later!      
 
-*Text editor*：1. [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) 2. [Visual Studio Code](https://code.visualstudio.com/) 3. [Notepad ++](https://notepad-plus-plus.org/download/v7.5.3.html)
+*Text editor*：1. [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) 2. [Visual Studio Code](https://code.visualstudio.com/) 3. [Notepad ++](https://notepad-plus-plus.org/download/v7.5.3.html)   
+
+Also welcome to visit the [Programming_CN](https://github.com/007tom/Programming_CN)!
 ## Ⅰ. Knowledge Point      
 ### 1. *C++*
 ### 2. *Javascript*
