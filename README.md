@@ -48,6 +48,34 @@ Also welcome to visit the [Programming_CN](https://github.com/007tom/Programming
 (2) String:
 
 (3) Boolean: true false
+	* Operators:
+	1. && 'and', || 'or', ! 'not';
+	2. Comprision operators:　> >= < <= == ===
+		* == could transfer the data type automatically and then compare them, so we have better using === to do comparision.
+		* NaN is equal to nothing included itself:
+			NaN === NaN; // false
+		the only way to judge it is to use the function named isNaN():
+			isNaN(NaN); // true
+		* float comparision:
+			1/3 === (1 - 2/3); // false
+		Opps! the right way is to compute ABS of their difference and then to compare with a threshold:
+			Math.abs(1/3 - (1 - 2/3)) < 0.0000001; // true
+(4) null, undefined
+	* null, 0, ''
+	1. null is represented data which value is nothing, and it is associated with None in Python;
+	2. 0 is a number;
+	3. '' is a string which length is 0.
+	* undefined means that data has not defined;
+	* Usually, we prefer to use null unless we have to judge whether premeters of function have delivered.
+(5) Array:
+	* Odered sets, could contains all type of data.
+	* Ways to make a array:
+		1. [a, b];
+		2. new.Array(a, b);
+	for better readability code, we highly recommended to use the formmer to create a array.
+	* Access: using index
+			arr[0]; // visit the 1st element. output: a
+			arr[2]; // undefined
 
 ### 3. *Python3*   
 
